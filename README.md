@@ -14,9 +14,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ricardociotto/Portfolio)  
-- 🌱 I’m currently learning **JavaScript and React.js**  
-- 🤝 I’m looking for help with [Portfolio](https://github.com/ricardociotto/Portfolio)  
+- 🌱 I’m currently learning **JavaScript and React.js**   
 - 📫 Reach me at: **ricksciott@gmail.com**  
 - 📄 Know more about my experience on [LinkedIn](https://www.linkedin.com/in/ricardo-ciotto-78917625a/)
 
